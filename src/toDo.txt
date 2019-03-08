@@ -1,0 +1,4 @@
+* Bugs
+    [] Validations.
+    [] FormRadio - neatsinaujina po paspaudimo vizualiai.
+    [] FormTOS - unchecked checkbox stays "on"
